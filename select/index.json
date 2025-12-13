@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Live My Life",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-13T15:13:53.994576Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Live My Life",
+      "artist": "Araabmuzik",
+      "has_synced": false,
+      "path": "select/01_I_Live_My_Life_Araabmuzik.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Live My Life (Leave Me Alone)",
+      "artist": "Cam'ron feat. Daz Dillinger",
+      "has_synced": true,
+      "path": "select/02_Live_My_Life_(Leave_Me_Alone)_Cam'ron_feat._Daz_Dillinger.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Live My Life (Leave Me Alone) (feat. Daz Dillinger)",
+      "artist": "Cam'ron",
+      "has_synced": true,
+      "path": "select/03_Live_My_Life_(Leave_Me_Alone)_(feat._Daz_Dillinger)_Cam'ron.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Live My Life",
+      "artist": "Far East Movement feat. Justin Bieber",
+      "has_synced": true,
+      "path": "select/04_Live_My_Life_Far_East_Movement_feat._Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tryin' To Live My Life Without You - Live",
+      "artist": "Bob Seger",
+      "has_synced": false,
+      "path": "select/05_Tryin'_To_Live_My_Life_Without_You_-_Live_Bob_Seger.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tryin' to Live My Life Without You - Live",
+      "artist": "Bob Seger & The Silver Bullet Band",
+      "has_synced": true,
+      "path": "select/06_Tryin'_to_Live_My_Life_Without_You_-_Live_Bob_Seger_&_The_Silver_Bullet_Band.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tryin' To Live My Life Without You (Live)",
+      "artist": "Bob Seger & The Silver Bullet Band",
+      "has_synced": true,
+      "path": "select/07_Tryin'_To_Live_My_Life_Without_You_(Live)_Bob_Seger_&_The_Silver_Bullet_Band.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "After All (I Live My Life)",
+      "artist": "Kenny Rogers",
+      "has_synced": false,
+      "path": "select/08_After_All_(I_Live_My_Life)_Kenny_Rogers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Live My Life Again",
+      "artist": "James Gang",
+      "has_synced": false,
+      "path": "select/09_Live_My_Life_Again_James_Gang.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Let Me Live My Life Lovin' You Babe",
+      "artist": "Barry White",
+      "has_synced": true,
+      "path": "select/10_Let_Me_Live_My_Life_Lovin'_You_Babe_Barry_White.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tryin' To Live My Life Without You",
+      "artist": "Bob Seger",
+      "has_synced": true,
+      "path": "select/11_Tryin'_To_Live_My_Life_Without_You_Bob_Seger.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Live My Life",
+      "artist": "N.O.R.E.",
+      "has_synced": false,
+      "path": "select/12_Live_My_Life_N.O.R.E..txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tryin' To Live My Life Without You (Live)",
+      "artist": "Bob Seger and the Silver Bullet Band",
+      "has_synced": true,
+      "path": "select/13_Tryin'_To_Live_My_Life_Without_You_(Live)_Bob_Seger_and_the_Silver_Bullet_Band.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Trying to Live My Life Without You",
+      "artist": "Otis Clay",
+      "has_synced": true,
+      "path": "select/14_Trying_to_Live_My_Life_Without_You_Otis_Clay.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Live My Life For You",
+      "artist": "FIREHOUSE",
+      "has_synced": true,
+      "path": "select/15_I_Live_My_Life_For_You_FIREHOUSE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Live My Life",
+      "artist": "N.O.R.E. feat. Ja Rule",
+      "has_synced": false,
+      "path": "select/16_Live_My_Life_N.O.R.E._feat._Ja_Rule.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Tryin' To Live My Life Without You (Live)",
+      "artist": "Bob Seger And The Silver Bullet Band",
+      "has_synced": true,
+      "path": "select/17_Tryin'_To_Live_My_Life_Without_You_(Live)_Bob_Seger_And_The_Silver_Bullet_Band.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Live My Life",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Live_My_Life_aespa.txt"
+    }
+  ]
+}
